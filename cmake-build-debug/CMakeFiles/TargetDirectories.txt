@@ -1,0 +1,3 @@
+/Users/lawrence/CLionProjects/GUI-library/cmake-build-debug/CMakeFiles/GUI_library.dir
+/Users/lawrence/CLionProjects/GUI-library/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lawrence/CLionProjects/GUI-library/cmake-build-debug/CMakeFiles/rebuild_cache.dir
